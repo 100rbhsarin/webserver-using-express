@@ -1,3 +1,5 @@
 20221229	19:00:50	6dd248ec-6e95-4183-aad3-d8bf3bba3343	Error:ENOENT: no such file or directory, stat 'D:\node\webserver using express\views\subdir\text.html'
 20221230	09:24:59	b1f3766b-c596-4ac0-943d-93b2786278b4	ReferenceError:model is not defined
 20221230	09:33:58	a6a48e30-d250-43bc-b67e-3a06ffe6f4fb	ReferenceError:model is not defined
+2022/12/31	09:54:10	06447505-f290-4b7a-a3be-037692928b8b	TypeError:Cannot read properties of undefined (reading 'authorization')
+2022/12/31	09:54:32	15defd0a-2f8b-4466-85ac-7967f0cb4ff9	TypeError:Cannot read properties of undefined (reading 'authorization')
